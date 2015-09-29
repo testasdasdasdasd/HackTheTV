@@ -7,7 +7,10 @@ First Apple TV Hackathon in San Francisco
  - [When?](#When)
  - [Where?](#Where)
  - [Schedule](#Schedule)
-      - [Where?](#Where)
+      - [Friday](#Friday)
+      - [Saturday](#Saturday)
+      - [Sunday](#Sunday)
+
 
 
 ## About
