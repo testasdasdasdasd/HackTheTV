@@ -1,6 +1,9 @@
 # tvOSHackathon
 First Apple TV Hackathon in San Francisco
 
+## About
+Bla bla bla bla bla
+
 ## When?
 9/22/2015
 ## Where?
