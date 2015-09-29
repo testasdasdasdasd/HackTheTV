@@ -2,14 +2,13 @@
 First Apple TV Hackathon in San Francisco
 
 ### Contents
- - [About](#About)
- - [When?](#When)
- - [When?](#When)
- - [Where?](#Where)
- - [Schedule](#Schedule)
-      - [Friday](#Friday)
-      - [Saturday](#Saturday)
-      - [Sunday](#Sunday)
+ - [About](#about)
+ - [When?](#when)
+ - [Where?](#where)
+ - [Schedule](#schedule)
+      - [Friday](#friday)
+      - [Saturday](#saturday)
+      - [Sunday](#sunday)
 
 
 
