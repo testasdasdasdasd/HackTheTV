@@ -10,6 +10,7 @@ First Apple TV Hackathon in San Francisco
       - [Friday](#friday)
       - [Saturday](#saturday)
       - [Sunday](#sunday)
+ - [Contact Us](#contact-us)
  - [Sponsors](#sponsors)
 
 
@@ -76,6 +77,7 @@ Presentations start
 
 #### 3:00PM 
 Winners announced + Prizaton
+
 
 ##Sponsors:
 
