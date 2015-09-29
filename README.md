@@ -5,6 +5,7 @@ First Apple TV Hackathon in San Francisco
  - [About](#about)
  - [When?](#when)
  - [Where?](#where)
+ - [Register](#register)
  - [Schedule](#schedule)
       - [Friday](#friday)
       - [Saturday](#saturday)
@@ -26,6 +27,8 @@ Bla bla bla bla bla
 
 <img width="400" alt="screen shot 2015-09-28 at 5 29 28 pm" src="https://cloud.githubusercontent.com/assets/6511079/10152438/cbd7478a-6606-11e5-850b-4240e12527d5.png">
 
+## Register
+Please register at our [DevPost Page](http://hackthetv.devpost.com)
 
 ##Schedule:  
 
