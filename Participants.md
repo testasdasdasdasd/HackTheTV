@@ -1,6 +1,5 @@
 # List of People Attending
-Use this list to possibly find groups before the hackathon starts
-
+Participating on the event? Add your info here!
 | Name        | Occupation | Email  |
 | ------------- |-------------| -----|
 | Lucas Farah | iOS Developer | lucas.farah@me.com |
