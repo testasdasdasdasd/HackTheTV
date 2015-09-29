@@ -78,6 +78,9 @@ Presentations start
 #### 3:00PM 
 Winners announced + Prizaton
 
+##Contact Us:
+Troy Do - troy@xinstitute.space
+Lucas Farah - lucas.farah@me.com
 
 ##Sponsors:
 
