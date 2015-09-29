@@ -1,5 +1,5 @@
 # TV App Ideas
-List of ideas
+Have an idea? Make a pull request and add new ideas
 
 ## Map App
 Display location of RV
