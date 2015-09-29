@@ -80,11 +80,11 @@ Winners announced + Prizaton
 
 ##Q&A:
 
-- Who is this Hackathon for?
+- **Who is this Hackathon for?**
   
 This Hackathon is for Developers and Designers only
 
-- Can I come without a group?
+- **Can I come without a group?**
 
   Of course! You will be able to find a group during the Happy Hour
 
