@@ -79,8 +79,8 @@ Presentations start
 Winners announced + Prizaton
 
 ##Contact Us:
-Troy Do - troy@xinstitute.space
-Lucas Farah - lucas.farah@me.com
+- Troy Do - troy@xinstitute.space
+- Lucas Farah - lucas.farah@me.com
 
 ##Sponsors:
 
