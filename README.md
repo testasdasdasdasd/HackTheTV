@@ -19,7 +19,7 @@ First Apple TV Hackathon in San Francisco
 Bla bla bla bla bla
 
 ## When?
-9/22/2015
+11/06/2015
 
 ## Where?
 **The X Institute**
