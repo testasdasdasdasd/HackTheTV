@@ -26,7 +26,7 @@ It will be a **three day intense hackathon** with the goal of developing softwar
 The X Institute **will provide food, music, and lots and lots of Red Bull**. Bring your own blankets to nap, although don’t plan on sleeping too long. 
 
 ####Prizes
-There are $2000 in prizes divided into Best App, Most Creative App and Best Game. Four person judge panel to consist of
+There are **$2000 in prizes** divided into Best App, Most Creative App and Best Game. Four person judge panel to consist of
 
 ## When?
 11/06/2015
