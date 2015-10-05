@@ -53,30 +53,26 @@ Please register at our [DevPost Page](http://hackthetv.devpost.com)
 | 11:58PM   | Snack time             | 
 | 11:59PM   | Hack through the night | 
 
-
- 
 ###Saturday:
+| Time        | Activity        | 
+| ------------- |-------------|
+| 7:00AM   | Breakfast               |
+| 8:00AM   | tvOS Workshop          | 
+| 8:00PM   | Hackathon Begins        | 
+| 8:30PM   | tvOS Workshop           | 
+| 11:58PM   | Snack time             | 
+| 11:59PM   | Hack through the night | 
 
-#### 7:00AM 
-Breakfast
-
-#### 8:00PM 
-tvOS Workshop  
-
- 
 ###Sunday:
+| Time        | Activity        | 
+| ------------- |-------------|
+| 7:00AM   | Breakfast               |
+| 1:00PM   | Praying for the DemoGods| 
+| 1:30PM   | Code Freeze             | 
+| 2:00PM   | Presentations start     | 
+| 3:00PM   | Winners announced + Prizaton| 
+| 11:59PM   | Hack through the night |  
 
-#### 7:00AM 
-Breakfast
-
-#### 8:00 - 2PM 
-Last hours of Hacking/Praying for the demoGods
-
-#### 2:00PM 
-Presentations start
-
-#### 3:00PM 
-Winners announced + Prizaton
 
 ##Q&A:
 
