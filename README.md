@@ -39,7 +39,7 @@ There are **$2000 in prizes** divided into Best App, Most Creative App and Best 
 <img width="400" alt="screen shot 2015-09-28 at 5 29 28 pm" src="https://cloud.githubusercontent.com/assets/6511079/10152438/cbd7478a-6606-11e5-850b-4240e12527d5.png">
 
 ## Register
-Please register at our [DevPost Page](http://hackthetv.devpost.com)
+Please register at our [Eventbrite Page](https://www.eventbrite.com/e/hack-the-tv-tickets-18913305205)
 
 ##Schedule: 
 
