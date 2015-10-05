@@ -57,9 +57,10 @@ Please register at our [DevPost Page](http://hackthetv.devpost.com)
 | Time        | Activity        | 
 | ------------- |-------------|
 | 7:00AM   | Breakfast               |
-| 8:00AM   | tvOS Workshop          | 
-| 8:00PM   | Hackathon Begins        | 
-| 8:30PM   | tvOS Workshop           | 
+| 8:00AM   | tvOS Workshop           | 
+| 9:00AM   | Continue Coding!        | 
+| 12:00AM   | Lunch                  | 
+| 8:00PM   | Dinner                  | 
 | 11:58PM   | Snack time             | 
 | 11:59PM   | Hack through the night | 
 
