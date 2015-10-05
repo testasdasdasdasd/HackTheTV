@@ -16,10 +16,8 @@ First Apple TV Hackathon in San Francisco
 
 
 ## About
- Want to be the first to bring apps to the big screen? 
- 
+####Want to be the first to bring apps to the big screen? 
  With the upcoming release of the App store **on the new Apple TV**, coders will now have the chance to **be the first to Hack the TV** with Games and apps. It’s gonna be **huge**. 
- <p>The X Institute of Entrepreneurship, an accelerated design/engineer school for entrepreneurs training in Swift & iOS Development, in the Mission of San Francisco will be hosting this event. <p>
  
 It will be a three day intense hackathon with the goal of developing software/apps to hack the new Apple TV.  We aim to be the first to traverse this new space. We urge you to accompany us in this opportunistic endeavour. 
 The X Institute will provide food, music, and lots and lots of Red Bull. Bring your own blankets to nap, although don’t plan on sleeping too long. There are $2000 in prizes divided into Best App, Most Creative App and Best Game. Four person judge panel to consist of <++>  <p>
@@ -28,7 +26,7 @@ The X Institute will provide food, music, and lots and lots of Red Bull. Bring y
 11/06/2015
 
 ## Where?
-**The X Institute**
+ **The X Institute of Entrepreneurship**, an accelerated design/engineer school for entrepreneurs training in **Swift & iOS Development**, in the Mission of San Francisco will be hosting this event.
 
 [3410 19th St - San Francisco,CA 94110](https://www.google.com/maps/place/The+X+Institute/@37.76035,-122.419611,17z/data=!3m1!4b1!4m2!3m1!1s0x808f7e3c8ba29873:0x76ae3a4c7d6bddb9)
 
