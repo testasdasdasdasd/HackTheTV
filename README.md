@@ -41,28 +41,18 @@ There are **$2000 in prizes** divided into Best App, Most Creative App and Best 
 ## Register
 Please register at our [DevPost Page](http://hackthetv.devpost.com)
 
-##Schedule:  
+##Schedule: 
 
- 
-###Friday:
+###Friday
+| Time        | Activity        | 
+| ------------- |-------------|
+| 7:00PM   | Happy Hour + Networking |
+| 7:30PM   | Kick-off Talks          | 
+| 8:00PM   | Hackathon Begins        | 
+| 8:30PM   | tvOS Workshop           | 
+| 11:58PM   | Snack time             | 
+| 11:59PM   | Hack through the night | 
 
-#### 7:00PM 
-Happy Hour + Networking
-
-#### 7:30PM 
-Kick-off Talks
-
-#### 8:00PM 
-Hackathon Begins
-
-#### 8:30PM 
-tvOS Workshop
-
-#### 9:30PM 
-Hack through the night
-
-#### 11:59PM 
-Pizza time!  
 
  
 ###Saturday:
