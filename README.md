@@ -1,6 +1,6 @@
 # Hack the TV Good links
 
-# Libraries
+### Libraries
 * [Voucher](https://github.com/rsattar/Voucher) - A simple library to make authenticating tvOS apps easy via their iOS counterparts.
 * [Parse for tvOS](https://github.com/ParsePlatform/Parse-SDK-iOS-OSX/issues/250) - Parse.com is partially working with tvOS!
 * 
@@ -13,12 +13,12 @@
 * [networking-for-osx-ios-tvos](https://github.com/tib/networking-for-osx-ios-tvos) - Networking examples for iOS, OS X, tvOS for my theswiftdev.com article.
 * 
 
-#### Developer documentation
+### Developer documentation
 - [Developer Library](https://developer.apple.com/library/prerelease/tvos/navigation/)
 - [Programming Guide](https://developer.apple.com/library/prerelease/tvos/documentation/General/Conceptual/AppleTV_PG/YourFirstAppleTVApp.html)
 - [Human Interface Guidelines](https://developer.apple.com/tvos/human-interface-guidelines/)
 
-#### Tutorials
+### Tutorials
 - [Beginning tvOS development - Ray Wenderlich](http://www.raywenderlich.com/114886/beginning-tvos-development-with-tvml-tutorial)
 - [Developing tvOS Apps with Swift](http://jamesonquave.com/blog/developing-tvos-apps-for-apple-tv-with-swift/)
 - [Swift and Metal GPU programming on tvOS for the new Apple TV](http://memkite.com/blog/2015/09/09/swift-and-metal-gpu-programming-on-tvos-for-the-new-apple-tv/)
@@ -31,6 +31,6 @@
 - [Developing for the Apple TV with tvOS, Swift, Javascript, and TVML](https://www.simononstartups.com/developing-for-the-apple-tv-with-tvos-swift-javascript-and-tvml/)
 - [An introduction tutorial to tvOS and Sprite Kit](http://cartoonsmart.com/an-introduction-tutorial-to-tvos-and-sprite-kit/#initial-setup)
 
-#### Articles
+### Articles
 - [Ray Wenderlich - tvOS initial impressions](http://www.raywenderlich.com/114313/tvos-initial-impressions)
 - [Apple TV - A World Without Webviews](https://medium.com/@dlpasco/apple-tv-a-world-without-webkit-5c428a64a6dd)
