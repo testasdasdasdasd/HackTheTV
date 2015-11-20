@@ -1,100 +1,30 @@
-# tvOSHackathon
-First Apple TV Hackathon in San Francisco
+# Hack the TV Good links
 
-### Contents
- - [About](#about)
- - [When?](#when)
- - [Where?](#where)
- - [Register](#register)
- - [Schedule](#schedule)
-      - [Friday](#friday)
-      - [Saturday](#saturday)
-      - [Sunday](#sunday)
- - [Contact Us](#contact-us)
- - [Sponsors](#sponsors)
+# Libraries
+* [Voucher](https://github.com/rsattar/Voucher) - A simple library to make authenticating tvOS apps easy via their iOS counterparts.
+* [Parse for tvOS](https://github.com/ParsePlatform/Parse-SDK-iOS-OSX/issues/250) - Parse.com is partially working with tvOS!
+* 
 
+#### Developer documentation
+- [Developer Library](https://developer.apple.com/library/prerelease/tvos/navigation/)
+- [Programming Guide](https://developer.apple.com/library/prerelease/tvos/documentation/General/Conceptual/AppleTV_PG/YourFirstAppleTVApp.html)
+- [Human Interface Guidelines](https://developer.apple.com/tvos/human-interface-guidelines/)
 
+#### Tutorials
+- [Beginning tvOS development - Ray Wenderlich](http://www.raywenderlich.com/114886/beginning-tvos-development-with-tvml-tutorial)
+- [Developing tvOS Apps with Swift](http://jamesonquave.com/blog/developing-tvos-apps-for-apple-tv-with-swift/)
+- [Swift and Metal GPU programming on tvOS for the new Apple TV](http://memkite.com/blog/2015/09/09/swift-and-metal-gpu-programming-on-tvos-for-the-new-apple-tv/)
+- [Top Shelf API - Video Tutorial](http://www.madeupbypeople.com/blog/2015/9/9/tvos-tutorial-make-apple-tv-apps)
+- [Hands-on with the tvOS SDK](http://telliott.io/2015/09/15/hands-on-with-the-tvos-sdk.html)
+- [Client-Server tvOS app](http://www.rockhoppertech.com/blog/apple-tv-tvos-hello-world-app-in-swift/)
+- [How to Create Apple TV’s Parallax Effect](https://www.simononstartups.com/how-to-create-apple-tvs-parallax-effect/)
+- [Mastering the tvOS Focus Enginer](http://nerds.airbnb.com/tvos-focus-engine/)
+- [Develop Client-Server App for Apple TV](http://pragma.tv/tutorial/2015/09/11/Client-Server-App-On-Apple-TV.html)
+- [Developing for the Apple TV with tvOS, Swift, Javascript, and TVML](https://www.simononstartups.com/developing-for-the-apple-tv-with-tvos-swift-javascript-and-tvml/)
+- [An introduction tutorial to tvOS and Sprite Kit](http://cartoonsmart.com/an-introduction-tutorial-to-tvos-and-sprite-kit/#initial-setup)
 
-## About
-####Want to be the first to bring apps to the big screen? 
- With the upcoming release of the App store **on the new Apple TV**, coders will now have the chance to **be the first to Hack the TV** with Games and apps. It’s gonna be **huge**. 
-
-####Duration
-It will be a **three day intense hackathon** with the goal of developing software/apps to hack the new Apple TV.  We aim to be the first to traverse this new space. We urge you to accompany us in this opportunistic endeavour. 
-
-####Place
-The X Institute **will provide food, music, and lots and lots of Red Bull**. Bring your own blankets to nap, although don’t plan on sleeping too long. 
-
-####Prizes
-There are **$2000 in prizes** divided into Best App, Most Creative App and Best Game. Four person judge panel to consist of
-
-## When?
-11/06/2015
-
-## Where?
- **The X Institute of Entrepreneurship**, an accelerated design/engineer school for entrepreneurs training in **Swift & iOS Development**, in the Mission of San Francisco will be hosting this event.
-
-[3410 19th St - San Francisco,CA 94110](https://www.google.com/maps/place/The+X+Institute/@37.76035,-122.419611,17z/data=!3m1!4b1!4m2!3m1!1s0x808f7e3c8ba29873:0x76ae3a4c7d6bddb9)
-
-<img width="400" alt="screen shot 2015-09-28 at 5 29 28 pm" src="https://cloud.githubusercontent.com/assets/6511079/10152438/cbd7478a-6606-11e5-850b-4240e12527d5.png">
-
-## Register
-Please register at our [Eventbrite Page](https://www.eventbrite.com/e/hack-the-tv-tickets-18913305205)
-
-##Schedule: 
-
-###Friday
-| Time        | Activity        | 
-| ------------- |-------------|
-| 7:00PM   | Happy Hour + Networking |
-| 7:30PM   | Kick-off Talks          | 
-| 8:00PM   | Hackathon Begins        | 
-| 8:30PM   | tvOS Workshop           | 
-| 11:58PM   | Snack time             | 
-| 11:59PM   | Hack through the night | 
-
-###Saturday:
-| Time        | Activity        | 
-| ------------- |-------------|
-| 7:00AM   | Breakfast               |
-| 8:00AM   | tvOS Workshop           | 
-| 9:00AM   | Continue Coding!        | 
-| 12:00AM   | Lunch                  | 
-| 8:00PM   | Dinner                  | 
-| 11:58PM   | Snack time             | 
-| 11:59PM   | Hack through the night | 
-
-###Sunday:
-| Time        | Activity        | 
-| ------------- |-------------|
-| 7:00AM   | Breakfast               |
-| 1:00PM   | Praying for the DemoGods| 
-| 1:30PM   | Code Freeze             | 
-| 2:00PM   | Presentations start     | 
-| 3:00PM   | Winners announced + Prizaton| 
-| 11:59PM   | Hack through the night |  
+#### Articles
+- [Ray Wenderlich - tvOS initial impressions](http://www.raywenderlich.com/114313/tvos-initial-impressions)
+- [Apple TV - A World Without Webviews](https://medium.com/@dlpasco/apple-tv-a-world-without-webkit-5c428a64a6dd)
 
 
-##Q&A:
-
-- **Who is this Hackathon for?**
-  
-This Hackathon is for Developers and Designers only
-
-- **Can I come without a group?**
-
-  Of course! You will be able to find a group during the Happy Hour
-
-
-##Contact Us:
-- Troy Do - troy@xinstitute.space
-- Lucas Farah - lucas.farah@me.com
-
-##Sponsors:
-
-1. MapBox https://www.mapbox.com/
-2. Contently https://www.contentful.com/
-3. Redbull http://www.redbull.com/
-4. Parse https://www.parse.com/
-
-##Prizes
