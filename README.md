@@ -3,7 +3,6 @@
 ### Libraries
 * [Voucher](https://github.com/rsattar/Voucher) - A simple library to make authenticating tvOS apps easy via their iOS counterparts.
 * [Parse for tvOS](https://github.com/ParsePlatform/Parse-SDK-iOS-OSX/issues/250) - Parse.com is partially working with tvOS!
-* 
 
 ### Code Examples
 * [tvOS9-AlamofireOnTvOS](https://github.com/Sweefties/tvOS9-AlamofireOnTvOS) - tvOS 9 Experiments - Alamofire-tvOS External Libraries - AppleTv.
@@ -11,7 +10,6 @@
 * [tvOS9-VideoPlayer](https://github.com/Sweefties/tvOS9-VideoPlayer) -tvOS 9~ Experiments - Native AVKit VideoPlayer - appleTv.
 * [tvGram](https://github.com/jeffreality/tvGram) - tvOS Instagram viewer in Swift
 * [networking-for-osx-ios-tvos](https://github.com/tib/networking-for-osx-ios-tvos) - Networking examples for iOS, OS X, tvOS for my theswiftdev.com article.
-* 
 
 ### Developer documentation
 - [Developer Library](https://developer.apple.com/library/prerelease/tvos/navigation/)
