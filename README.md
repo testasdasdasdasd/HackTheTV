@@ -1,5 +1,12 @@
 # Hack the TV Good links
 
+### Wi-Fi
+* Name: SwiftMission
+* Password: singularity$@
+
+### Address
+The X Institute: 3410 19th Street - San Francisco, CA 94110
+
 ### Libraries
 * [Voucher](https://github.com/rsattar/Voucher) - A simple library to make authenticating tvOS apps easy via their iOS counterparts.
 * [Parse for tvOS](https://github.com/ParsePlatform/Parse-SDK-iOS-OSX/issues/250) - Parse.com is partially working with tvOS!
@@ -33,3 +40,9 @@
 - [Ray Wenderlich - tvOS initial impressions](http://www.raywenderlich.com/114313/tvos-initial-impressions)
 - [Apple TV - A World Without Webviews](https://medium.com/@dlpasco/apple-tv-a-world-without-webkit-5c428a64a6dd)
 - [How to Win a Hackathon: Experiences from a mobile developer](https://medium.com/techspiration-ideas-making-it-happen/how-to-win-a-hackathon-experiences-from-a-mobile-developer-d26fb3461b5a#.wumzjy71d)
+- 
+
+### Need Help?
+
+* Lucas Farah - contact@lucasfarah.me (@lucasfarah on Slack)
+* Troy Do - troy@xinstitute.space (@troydo42 on Slack)
